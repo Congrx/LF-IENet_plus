@@ -8,13 +8,13 @@ We propose a novel semantic segmentation network called **LF-IENet++** suitable 
 
 ![component](./images/component.png)
 
-![network architecture](./images/network architecture.png)
+![network architecture](./images/network_architecture.png)
 
 
 
 ## Results
 
-![Multi-scale_baseline_result](./images/multiscale baseline lf result.png)
+![Multi-scale_baseline_result](./images/multiscale_baseline_lf_result.png)
 
 
 
