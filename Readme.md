@@ -212,7 +212,7 @@ Detailed descriptions of some important files are as following.
 
 - `pretrained_models`：Pre-trained feature extraction backbones `ResNet50` and `ResNet101` and `HRNet48` on `ImageNet`. 
 
-- `work_dirs`：Our pre-trained models  `LF-IENet++`$^{4}$`-Res50` and `LF-IENet++`$^{3}$`-Res101` and `LF-IENet++`$^{3}$`-HR48` with default configuration information on `UrbanLF-Real` and `UrbanLF-Syn-Big-dis` and `UrbanLF-Syn-Small-dis`. 
+- `work_dirs`：Our pre-trained models  `LF-IENet++-Res50` and `LF-IENet++-Res101` and `LF-IENet++-HR48` with default configuration information on `UrbanLF-Real` and `UrbanLF-Syn-Big-dis` and `UrbanLF-Syn-Small-dis`. 
 
 ## Acknowledgement
 
