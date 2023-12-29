@@ -1,2 +1,0 @@
-CUDA_VISIBLE_DEVICES='0' python test.py configs/lf/UrbanLF_Real/lfienetplusrefine_hr48_432x432_80k_UrbanLF_Real.py work_dirs/lfienetplusrefine_hr48_432x432_80k_UrbanLF_Real/best_mIoU.pth --eval mIoU
-CUDA_VISIBLE_DEVICES='0' python test.py configs/lf/UrbanLF_Real/lfienetplusrefine_ref4_r50-d8_432x432_80k_UrbanLF_Real.py work_dirs/lfienetplusrefine_ref4_r50-d8_432x432_80k_UrbanLF_Real/best_mIoU.pth --eval mIoU

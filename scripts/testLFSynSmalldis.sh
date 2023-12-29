@@ -1,3 +1,0 @@
-CUDA_VISIBLE_DEVICES='0' python test.py configs/lf/UrbanLF_Syn_Small_dis/lfienetplusrefine_hr48_480x480_80k_UrbanLF_Syn_Small_dis.py work_dirs/lfienetplusrefine_hr48_480x480_80k_UrbanLF_Syn_Small_dis/best_mIoU.pth --eval mIoU
-CUDA_VISIBLE_DEVICES='0' python test.py configs/lf/UrbanLF_Syn_Small_dis/lfienetplusrefine_ref3_r101-d8_480x480_80k_UrbanLF_Syn_Small_dis.py work_dirs/lfienetplusrefine_ref3_r101-d8_480x480_80k_UrbanLF_Syn_Small_dis/best_mIoU.pth --eval mIoU
-CUDA_VISIBLE_DEVICES='0' python test.py configs/lf/UrbanLF_Syn_Small_dis/lfienetplusrefine_ref4_r50-d8_480x480_80k_UrbanLF_Syn_Small_dis.py work_dirs/lfienetplusrefine_ref4_r50-d8_480x480_80k_UrbanLF_Syn_Small_dis/best_mIoU.pth --eval mIoU
