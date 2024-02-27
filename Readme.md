@@ -1,6 +1,6 @@
 # LF-IENet++
 
-This is the official pytorch implementation repository of [End-to-End Semantic Segmentation Utilizing Multi-scale Baseline Light Field](http) (IEEE TCSVT 2024), which is an extension of our conference version [Combining Implicit-Explicit View Correlation for Light Field Semantic Segmentation.](https://openaccess.thecvf.com/content/CVPR2023/html/Cong_Combining_Implicit-Explicit_View_Correlation_for_Light_Field_Semantic_Segmentation_CVPR_2023_paper.html) (CVPR 2023)
+This is the official pytorch implementation repository of [End-to-End Semantic Segmentation Utilizing Multi-scale Baseline Light Field](https://ieeexplore.ieee.org/document/10440124) (IEEE TCSVT 2024), which is an extension of our conference version [Combining Implicit-Explicit View Correlation for Light Field Semantic Segmentation.](https://openaccess.thecvf.com/content/CVPR2023/html/Cong_Combining_Implicit-Explicit_View_Correlation_for_Light_Field_Semantic_Segmentation_CVPR_2023_paper.html) (CVPR 2023)
 
 ## Introduction
 
@@ -229,6 +229,13 @@ We sincerely thank the authors for sharing their code and amazing research work!
 If you find this work helpful, please consider citing the following papers:
 
 ```
+@ARTICLE{cong2024lfienetplus,
+  author={Cong, Ruixuan and Sheng, Hao and Yang, Dazhi and Yang, Da and Chen, Rongshan and Wang, Sizhe and Cui, Zhenglong},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={End-to-End Semantic Segmentation Utilizing Multi-scale Baseline Light Field}, 
+  year={2024},
+  doi={10.1109/TCSVT.2024.3367370}}
+
 @inproceedings{cong2023lfienet,
   title={Combining Implicit-Explicit View Correlation for Light Field Semantic Segmentation},
   author={Cong, Ruixuan and Yang, Da and Chen, Rongshan and Wang, Sizhe and Cui, Zhenglong and Sheng, Hao},
@@ -236,6 +243,16 @@ If you find this work helpful, please consider citing the following papers:
   pages={9172--9181},
   year={2023}
 }
+
+@ARTICLE{sheng2022urbanlf,
+  author={Sheng, Hao and Cong, Ruixuan and Yang, Da and Chen, Rongshan and Wang, Sizhe and Cui, Zhenglong},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={UrbanLF: A Comprehensive Light Field Dataset for Semantic Segmentation of Urban Scenes}, 
+  year={2022},
+  volume={32},
+  number={11},
+  pages={7880-7893},
+  doi={10.1109/TCSVT.2022.3187664}}
 ```
 
 ## Contact
